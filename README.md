@@ -10,7 +10,7 @@ O site foi desenvolvido em formato de **Landing Page** para apresentar de forma 
 
 Você pode visitar o site pessoal publicado online através do link:
 
-➡️ **[ENDEREÇO DO SEU SITE AQUI]** (Ex: `https://seunome.github.io/`)
+➡️ **https://santiago1431.github.io/Site-Pessoal-Web/** 
 
 ---
 
@@ -23,7 +23,7 @@ O projeto é estático e foi construído utilizando os conhecimentos adquiridos 
 
 ## 📋 Conteúdo Principal
 
-O conteúdo apresentado no site (biografia, habilidades e/ou projetos) foi obtido a partir da **Lista de Exercícios da Semana** da disciplina, conforme requisito.
+O conteúdo apresentado no site (biografia, habilidades e/ou projetos) foi obtido a partir da **Lista de Exercícios da Semana** da disciplina, conforme requisito, alem da minha carreira academica.
 
 ## 🌐 Hospedagem
 
